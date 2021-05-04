@@ -35,6 +35,3 @@ On peut mettre des "hook" en utilisant des crochets.
 
 # Autres
 https://git-school.github.io/visualizing-git permet de simuler les opérations git
-
-# GitHub
-Access token: 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
